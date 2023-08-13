@@ -1,82 +1,33 @@
+<h1 align="center">Hi 👋, I'm Adhiraj Lamichhane</h1>
+<h3 align="center">A passionate backend developer.</h3>
 
-<h1>♾️✌️ Adhiraj Lamichhane</h1>
-<br /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhiraj1212&label=Profile%20views&color=0e75b6&style=flat" alt="adhiraj1212" /> </p>
 
-                    
-`**Digital Craftsman (Developer / Programmer)**`
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhiraj1212" alt="adhiraj1212" /></a> </p>
 
-                    
+- 🔭 I’m currently working on **Multivendor Restaurant Project**
 
-<p align="left">👋 Hey there! I'm Adhiraj Lamichhane,
+- 🌱 I’m currently learning **Django and Machine Learning.**
 
-🖥️ A passionate **Backend Developer** with hands-on experience in the Django and Laravel framework.
-📊 On the side, I'm delving into the fascinating world of Machine Learning and always eager to explore and implement innovative solutions.
-💻 Fluent in the foundational trio of web development: **HTML, CSS, and JS**.</p>
-<p align="left"> 
-  <a href="https://github.com/Adhiraj1212?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Adhiraj1212?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  <a href="https://github.com/Adhiraj1212?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Adhiraj1212?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
-  
-  <a href="https://github.com/Adhiraj1212?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adhiraj1212?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/Adhiraj1212?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adhiraj1212?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
+- 💬 Ask me about **Django, Laravel, Python, JS.**
 
----
-<br />
+- 📫 How to reach me **kiteretsu43210@gmail.com**
 
-                    
+- ⚡ Fun fact **I'm a learner.**
 
-<h2>Languages and Tools</h2> 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,php,python,django,laravel&perline=9"  />
-</p>
-<br />
-
-                    
-
-<p><a href="https://github.com/Adhiraj1212#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiraj1212&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Adhiraj1212" /></a>
-  <a href="https://github.com/Adhiraj1212#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiraj1212&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Adhiraj1212" /></a>
+<a href="https://twitter.com/adhiraj_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhiraj_002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adhiraj-lamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhiraj-lamichhane" height="30" width="40" /></a>
+<a href="https://fb.com/adhiraj.lamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adhiraj.lamichhane" height="30" width="40" /></a>
+<a href="https://instagram.com/ad_lamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad_lamichhane" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<a href="https://github.com/Adhiraj1212#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adhiraj1212&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Adhiraj1212" /></a>
-<a href="https://github.com/Adhiraj1212#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adhiraj1212&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Adhiraj1212" /></a>
-</p> 
-<br>
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhiraj1212&show_icons=true&locale=en&layout=compact" alt="adhiraj1212" /></p>
 
-<p><a href="https://github.com/Adhiraj1212#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Adhiraj1212&theme=nightowl#gh-dark-mode-only" alt="Adhiraj1212"/></a>
-<a href="https://github.com/Adhiraj1212#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Adhiraj1212&theme=vue#gh-light-mode-only" alt="Adhiraj1212"/></a></p>
-<br/>
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhiraj1212&show_icons=true&locale=en" alt="adhiraj1212" /></p>
 
-<p><a href="https://github.com/Adhiraj1212#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Adhiraj1212&theme=nightowl#gh-dark-mode-only" alt="Adhiraj1212" /></a>
-<a href="https://github.com/Adhiraj1212#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Adhiraj1212&theme=vue#gh-light-mode-only" alt="Adhiraj1212" /></a></p>
-<br/>
-
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/Adhiraj1212/pricetag_restapi#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adhiraj1212&repo=pricetag_restapi&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Adhiraj1212/pricetag_restapi#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adhiraj1212&repo=pricetag_restapi&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
-
-<h2>Connect With Me</h2> 
-<p align="left">
-<a href="https://twitter.com/adhiraj_002" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhiraj_002" /></a>
-<a href="https://instagram.com/ad_lamichhane" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad_lamichhane" /></a>
-<a href="https://www.linkedin.com/in/adhiraj-lamichhane/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhiraj1212&" alt="adhiraj1212" /></p>
