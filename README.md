@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django, Laravel, Python, JS.**
 
-- 📫 How to reach me **kiteretsu43210@gmail.com**
+- 📫 How to reach me **adhirajlamichhane1@gmail.com**
 
 - ⚡ Fun fact **I'm a learner.**
 
