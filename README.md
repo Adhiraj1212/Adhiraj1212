@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhiraj1212" alt="adhiraj1212" /></a> </p>
 
-- 🔭 I’m currently working on **Multivendor Restaurant Project**
+- 🔭 I’m currently working on **MajjakoDeals - An E-Commerce Platform in Nepal**
 
 - 🌱 I’m currently learning **Django and Machine Learning.**
 
